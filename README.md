@@ -1,4 +1,4 @@
-
+Tata Tatenda Mawonya AI
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=85&pause=100000000&color=FFFF00&lines=true&vCenter=true&width=815&height=100&lines=B.M.B-XMD-TECH)](https://git.io/typing-svg) 
   
 
