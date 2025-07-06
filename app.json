@@ -98,14 +98,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "𝙱.𝙼.𝙱-𝚇𝙼𝙳"
+    "value": "MU.KHE.BI"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of kenya '254')",
     "required":true,
-    "value": "255767862457"
+    "value": "254115337718"
   },
     "WARN_COUNT":
   {
